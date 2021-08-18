@@ -1,0 +1,14 @@
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

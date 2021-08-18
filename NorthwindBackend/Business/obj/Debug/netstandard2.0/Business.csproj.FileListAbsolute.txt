@@ -1,0 +1,16 @@
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\bin\Debug\netstandard2.0\Business.dll
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\bin\Debug\netstandard2.0\Core.dll
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\bin\Debug\netstandard2.0\Core.pdb
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\obj\Debug\netstandard2.0\Business.dll
+D:\Furkan\masaüstü\C# engin demiroğ\ASP.NET\NorthwindBackend\Business\obj\Debug\netstandard2.0\Business.pdb
